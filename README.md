@@ -14,4 +14,4 @@ This project provisions AWS infrastructure using Terraform.
 - Terraform
 - Git
 - GitHub
-- VS Code
+- VS CodeTest
